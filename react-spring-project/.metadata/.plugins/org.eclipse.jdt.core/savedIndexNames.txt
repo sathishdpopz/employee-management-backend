@@ -1,0 +1,19 @@
+INDEX VERSION 1.131+C:\Users\DELL\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\react-spring-project\.metadata\.plugins\org.eclipse.jdt.core
+1372512418.index
+3402553769.index
+3655603845.index
+110748547.index
+1865797976.index
+1011310958.index
+1066802090.index
+802562604.index
+1417390811.index
+2049661612.index
+2008727611.index
+771504780.index
+1275060384.index
+3953437937.index
+2172745711.index
+885956853.index
+1623283831.index
+1782274419.index
